@@ -48,7 +48,7 @@ Database:
 
 ```bash
 git clone https://github.com/Sominath1212/Full_stack_MERN_Project_Final_Year
-cd project-management-system
+cd Full_stack_Project_Final_Year
 ```
 
 ---
